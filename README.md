@@ -8,14 +8,6 @@ This is a Cookbook - Single Page Application (SPA). The application allows recip
 * Bootstrap
 * HTML&CSS
 
-## Features
-* Add, edit and delete recipes
-* Ingredient list management in each recipe
-* Recipe search
-* List of recipes in a short form
-* Detailed view of the recipe
-* RWD (Responsive web design)
-
 ## Setup
 * Clone this repo to your desktop
 ```
