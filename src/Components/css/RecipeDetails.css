@@ -1,0 +1,31 @@
+.imageDetails{
+    height: 300px;
+    margin: 0 auto;
+}
+
+.imageDetails img{
+    height: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.description{
+    margin: 20px 10%;
+    text-align: justify;
+}
+
+.btnAdd{
+    margin: 0 10px;
+    width: 10%;
+    min-width: 100px;
+    height: 50px;
+}
+
+.nonexist{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+li.list{
+    padding: 5px 0;
+}
